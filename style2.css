@@ -1,0 +1,17 @@
+section {
+    border: solid 1px red;
+    width: 20%;
+    height: 150px;
+    margin-top: 80px;
+    text-align: center;
+ margin-left: auto;
+ margin-right: auto;
+    box-shadow: inset 3px 3px 30px 5px grey;
+}
+
+
+/* box-shadow : x - y - (el woudhou7 mte3 shadow) - intichar */
+
+aside {
+ background-image: linear-gradient(to bottom ,blue, red , green);
+}

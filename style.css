@@ -1,0 +1,57 @@
+body {
+    height: 1800px;
+}
+
+
+/* section {
+    border: solid 2px red;
+    width: 50%;
+    margin-top: 150px;
+    position: sticky;
+    top: 50px;
+} */
+
+article {
+    border: solid 2px rgb(10, 37, 187);
+    width: 50%;
+    margin-top: 150px; 
+}
+
+
+
+
+/* section p {
+font-size: 50px;
+position: relative;
+bottom: 20px;
+
+
+   
+} */
+
+
+
+/* p {
+    font-size: 50px;
+    position: fixed;
+ top: 20px;
+} */
+
+
+section p {
+/* position: absolute;
+top: 100px; */
+
+/* position: relative;
+bottom: 100px; */
+
+}
+
+
+
+
+
+/*  
+possition relative (l'element ki yet7arek blasstou mayekhedh ha had , yet7arek par rapport blasstou l'origin )
+position fixed   (l'element yet7arek par rapport lahdoud mte3 el page , blasstou ifoukehelou )
+*/
